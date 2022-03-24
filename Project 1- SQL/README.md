@@ -18,9 +18,9 @@ The Sakila movie database is a SQL database of online DVD rentals. In this proje
 
 ### Files used:
 1. The following file contains necessary queries:
-   * Query text
+   * [Query text](https://github.com/Rachel-R16/Programming-for-Data-Science-with-Python-Nanodegree-Program-Udacity/blob/main/Project%201-%20SQL/Query%20Text)
 2. The following file contains Visualisations of the resulted data from corresponding queries:
-   * SQL Project Visualizations
+   * [SQL Project Visualizations](https://github.com/Rachel-R16/Programming-for-Data-Science-with-Python-Nanodegree-Program-Udacity/blob/main/Project%201-%20SQL/SQL%20Project%20Submission.pdf)
 
 ### Credits:
 * The given [PostgreSQL](https://www.postgresql.org/docs/12/index.html) is useful for misunderstandings.
