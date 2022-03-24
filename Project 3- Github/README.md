@@ -13,7 +13,7 @@ The Project Submission consists of the filling of a template with all the Git co
 
 ### Files:
 1. The following file contains necessary commands used to do tasks:
-   * Git Commands Documentation
+   * [Git Commands Documentation](https://github.com/Rachel-R16/Programming-for-Data-Science-with-Python-Nanodegree-Program-Udacity/blob/main/Project%203-%20Github/Copy%20of%20Git%20Commands%20Documentation.pdf)
 2. The following link leads to the main repository:
    * x
 
