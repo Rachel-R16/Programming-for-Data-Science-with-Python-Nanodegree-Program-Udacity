@@ -23,4 +23,4 @@ In this project, you will make use of Python to explore data related to bike sha
 * The following [pandas documentation](https://pandas.pydata.org/docs/) was useful for reference.
 * The following [numpy documentation](https://numpy.org/doc/) was useful for reference.
 * The following [controlflow documentation](https://docs.python.org/3/tutorial/controlflow.html) was useful for reference.
-* If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
+* If you require furthur explanation on select queries, [StackOverflow](www.stackoverflow.com) is helpful.
