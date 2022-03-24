@@ -19,3 +19,4 @@ The Project Submission consists of the filling of a template with all the Git co
 
 ### Credits:
 * The following [git documentation](https://git-scm.com/doc) is useful for reference.
+* If you require furthur explanation on select queries, [StackOverflow](www.stackoverflow.com) is helpful.
