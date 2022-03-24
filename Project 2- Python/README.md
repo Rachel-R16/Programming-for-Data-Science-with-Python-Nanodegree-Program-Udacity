@@ -19,7 +19,7 @@ In this project, you will make use of Python to explore data related to bike sha
    * new_york_city.csv
    * washington.csv
 
-### Credits
+### Credits:
 * The following [pandas documentation](https://pandas.pydata.org/docs/) was useful for reference.
 * The following [numpy documentation](https://numpy.org/doc/) was useful for reference.
 * The following [controlflow documentation](https://docs.python.org/3/tutorial/controlflow.html) was useful for reference.
