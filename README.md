@@ -28,8 +28,6 @@ For the presentation component, the student had to create four slides, and each 
 * A supporting visualization, including a title and axis label, created using the final data of the SQL queries that answer the questions of interest.
 * A small summary on each slide
 
-<img width = "1000" height = "500" src = "https://user-images.githubusercontent.com/100713635/159887986-912efc53-a949-4ec1-86a8-f2d732e35c7d.png">
-
 ## Project 2: Explore US Bikeshare Data
 
 
@@ -49,8 +47,6 @@ Data will be provided in three city dataset files, namely:
 * new_york_city.csv
 * washington.csv
 
-<img width = "1000" height = "500" src = "https://user-images.githubusercontent.com/100713635/159886814-7e5f32ae-4d17-45bd-9a0f-2e705e0b9b54.jpg">
-
 ## Project 3: Post Your Work On Github
 
 
@@ -61,8 +57,6 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 
 The Project Submission consists of the filling of a template with all the Git commands used to perform the requested tasks.
 
-<img width = "1000" height = "500" src = "https://user-images.githubusercontent.com/100713635/159889190-3b9e587e-4082-43e6-aa29-a7f8b8808c06.png">
-
 ## My Certification
 
-![Udacity Completion Certificate](https://user-images.githubusercontent.com/100713635/159890107-72a4537a-462a-402a-ac54-f6b6291a75a9.jpg)
+<img width = "1000" src = "https://user-images.githubusercontent.com/100713635/159890107-72a4537a-462a-402a-ac54-f6b6291a75a9.jpg">
